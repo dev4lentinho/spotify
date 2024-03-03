@@ -1,0 +1,1 @@
+![preview](https://github.com/dev4lentinho/spotify/blob/main/asetts/preview.png)
