@@ -1,0 +1,184 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    color: white;
+
+}
+
+h1 {
+    cursor: pointer;
+}
+
+.layoutmenu1 {
+    width: 330px;
+    height: 169px;
+    background-color: #121212;
+    padding: 0px 8px 4px 8px;
+    border-radius: 8px;
+    margin: 14px 8px 4px 8px;
+    display: inline-block;
+}
+
+.layoutmenu2 {
+    width: 330px;
+    height: 380px;
+    background-color: #121212;
+    margin: 14px 8px 4px 8px;
+    position: relative;
+    padding: 0px 8px 4px 8px;   
+    border-radius: 8px;
+    display: block;
+}
+
+.layoutmenu1 h2 {
+    padding: 5px 0px;
+    cursor: pointer;
+}
+
+.layoutmenu3 {
+    width: 960px;
+    height: 573px;
+    background-color: red;
+    display: inline-block;
+    position: relative;
+    bottom: 600px;
+    left: 360px;
+    margin: 24px 8px 4px 8px;
+    border-radius: 8px;
+    background-color: #121212;
+}
+
+h1, h3 {
+    font-family: "Onest", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+}
+
+p {
+    font-family: "Onest", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 190;
+    font-style: bold;
+    padding: 10px;
+}
+
+h2 {
+    display: block;
+    position: relative;
+    left: 20px;
+    font-family: "Onest", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: bold;
+    cursor: pointer;
+}
+
+.container {
+    display: flex;
+    position: relative;
+    left: 20px;
+}
+
+.container article {
+    margin: 20px;
+    background-color: #202020;
+    width: 140px;
+    height: 200px;
+    padding: 20px;
+    border-radius: 6px;
+    position: relative;
+}
+
+.container img {
+    border-radius: 4px;
+    position: relative;
+    width: 140px;
+}
+
+.container p {
+    text-align: center;
+}
+
+.addplaylist {
+    position: relative;
+    left: 90px;
+    top: 14px;
+}
+
+.listcreator {
+    width: 320px;
+    height: 90px;
+    background-color: #282828;
+    border-radius: 8px;
+    position: relative;
+    top: 8px;
+}
+
+button {
+    border-radius: 14px;
+    border: none;
+    margin-left: 14px;
+}
+
+.legal {
+    letter-spacing: 3px;
+    margin-top: 8px;
+}
+
+.languagebutton {
+    border-radius: 30px;
+    width: 120px;
+    height: 30px;
+    background-color: rgba(240, 255, 255, 0);
+    border: 2px solid white;
+    padding: 4px;
+    position: relative;
+    left: 20px;
+    cursor: pointer;
+}
+
+.languagetext {
+    position: relative;
+    bottom: 39px;
+    left: 30px;
+}
+
+.recently {
+    position: relative;
+    top: 10px;
+}
+
+.container2 {
+    display: flex;
+    position: relative;
+    left: 20px;
+    bottom: 20px;
+}
+
+.container2 article {
+    margin: 20px;
+    background-color: #202020;
+    width: 140px;
+    height: 200px;
+    padding: 20px;
+    border-radius: 6px;
+    position: relative;
+}
+
+.container2 img {
+    border-radius: 4px;
+    position: relative;
+    width: 140px;
+}
+
+.container2 p {
+    text-align: center;
+}
+
+button {
+    cursor: pointer;
+}
